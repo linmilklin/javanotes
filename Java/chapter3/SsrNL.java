@@ -2,12 +2,12 @@ import java.util.*;
 public class SsrNL{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
-		System.out.println("ÊäÈëÄêÁä");
+		System.out.println("è¾“å…¥å¹´é¾„");
 		int nl = sc.nextInt();
 		if(nl >= 18){
-			System.out.println("ÒÑ³ÉÄê");
+			System.out.println("å·²æˆå¹´");
 		}else{
-			System.out.println("Î´³ÉÄê");
+			System.out.println("æœªæˆå¹´");
 		}
 		
 	}

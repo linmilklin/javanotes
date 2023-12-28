@@ -7,9 +7,9 @@ public class ScannerTestone{
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("ÇëÊäÈëµÚÒ»¸öÊı×Ö");
+		System.out.println("è¯·è¾“å…¥ç¬¬ä¸€ä¸ªæ•°å­—");
 		int i = sc.nextInt();
-		System.out.println("ÇëÊäÈëµÚ¶ş¸öÊı×Ö");
+		System.out.println("è¯·è¾“å…¥ç¬¬äºŒä¸ªæ•°å­—");
 		int ii = sc.nextInt();
 
 		System.out.println(i + "+" + ii + "=" + (i + ii));
